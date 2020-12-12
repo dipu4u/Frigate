@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: io.frigate
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, gradle, http-client, java, java-application, jax-rs, junit, logback, netty-server, reactor, readme, shade, yaml]

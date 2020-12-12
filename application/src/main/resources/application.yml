@@ -1,0 +1,5 @@
+micronaut:
+  application:
+    name: application
+  server:
+    port: 11000
